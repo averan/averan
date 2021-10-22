@@ -1,6 +1,6 @@
 Hola, soy Andrés Vera
 
-Estoy publicando un par de códigos fuentes que use el el workshop de "Rest en un AS/400" en Nerdearla
+Estoy publicando un par de códigos fuentes que usé el el workshop de "Rest en un AS/400" en Nerdearla
 
 veanlo acá: https://www.youtube.com/watch?v=P_od42Eypb4&ab_channel=nerdearla
 
